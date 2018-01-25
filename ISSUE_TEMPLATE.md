@@ -1,4 +1,12 @@
-<b>when raising an issue please specify the following information:</b>
+<h1>Pull request</h1>
+
+<b>Things to outline in a pull request:</b>
+- What have you added/changed/fixed
+- Why have you done this 
+
+<h1>Issues</h1>
+
+<b>When raising an issue please specify the following information:</b>
 - What the issue is
 - The scenario that caused the issue
 - Any errors ect...
