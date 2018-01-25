@@ -1,4 +1,4 @@
-<h1>Pull request</h1>
+<h1>Pull Request</h1>
 
 <b>Things to outline in a pull request:</b>
 - What have you added/changed/fixed
